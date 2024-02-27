@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Tayfun Daldik - Junior Software Developer<br><br>Hello, I'm Tayfun Daldik, a Junior Software Developer passionate about coding and exploring new technologies.<br><br>## About Me<br><br> 👨‍💻 Currently learning Machine Learning with Python.<br> 🎮 Worked on small game projects using Unity.<br> ☕ Experienced with Java, JavaScript, and Spring Boot.<br>🚗 Developed an autonomous car project for my final university project.<br><br>## Fun Fact<br><br>I graduated from the Faculty of Electrical and Electronics Engineering.<br><br>## Hobbies<br><br>In my free time, I enjoy:<br><br>🎬 Watching movies<br>📚 Reading books<br>🎮 Playing video games<br>💪 Bodybuilding<br>🔭 Astronomy<br><br>## Learning Journey<br><br>I love to explore and learn various programming languages and algorithms.<br>
+  Tayfun Daldik - Junior Software Developer<br><br>Hello, I'm Tayfun Daldik, a Junior Software Developer passionate about coding and exploring new technologies.<br><br>## About Me<br><br> 👨‍💻 Currently learning Machine Learning with Python.<br> 🎮 Worked on small game projects using Unity.<br> ☕ Experienced with Java, JavaScript, and Spring Boot.<br>🚗 Developed an autonomous car project for my final university project.<br><br>## Fun Fact<br><br>I graduated from the Faculty of Electrical and Electronics Engineering.<br><br>## Hobbies<br><br>In my free time, I enjoy:<br><br>🎬 Watching movies<br>📚 Reading books<br>🎮 Playing video games<br>💪 Bodybuilding<br>🔭 Astronomy<br><br>## Learning Journey<br><br>I love to explore and learn various programming languages and algorithms.<br>
 
 
 ## 🌐 Socials:
@@ -12,10 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tayfundaldik&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayfundaldik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
